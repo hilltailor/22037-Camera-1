@@ -5,8 +5,9 @@ import numpy as np
 import time
 
 # Variables
+# Optical constants are given in the units of cm^-1 (dependent on the wavelength)
 h_blood_const =
-w_const = 
+w_const = 2.79*10**(-3)
 m_const =
 f_const =
 mu_a =
